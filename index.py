@@ -21,7 +21,7 @@ root = Tk()
 
 canvas = Canvas(width=650,height=315,bg='blue')
 
-photo = PhotoImage(file='F:\\Project\\CMS\\logo1.png')
+photo = PhotoImage(file='F:\\Project\\CMS\\nishantvaitage.github.io\\logo1.png')
 
 canvas.create_image(0,0,image=photo, anchor=NW)
         
